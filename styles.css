@@ -1,0 +1,120 @@
+/* Buttons */
+
+.download-button {
+  margin: 5% 3% 5% 0;
+  padding: 15%;
+}
+/* Title Section */
+
+#title {
+  background-color: #51C2D5;
+  color: #fff;
+  text-align: left;
+}
+
+#title .container-fluid {
+  padding: 0;
+}
+
+/* Title Image */
+
+.title-image {
+  width: 60%;
+  transform: rotate(25deg);
+  position: absolute;
+  right: 30%;
+
+}
+/* Containers */
+
+.container-fluid{
+  padding: 7% 15%;
+  align-content: center;
+}
+#title {
+  text-align: center;
+}
+
+.title-image {
+  position: static;
+  transform: rotate(0);
+}
+/* Features Section */
+
+#features {
+  position: relative;
+}
+
+.feature-title {
+  font-size: 1.5rem;
+
+}
+
+.feature-box {
+  padding: 4.5%;
+}
+#pire {
+  padding: 100px;
+}
+
+.card-title {
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+
+.card-body {
+  padding: 3% 2%;
+}
+
+.icon {
+  color: #040303;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #1597BB;
+}
+
+body {
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat-Bold";
+}
+
+p {
+  color: #8f8f8f;
+}
+
+/* Headings */
+
+.big-heading {
+  font-family: "Montserrat-Black";
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+.section-heading {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+/* Sections */
+
+.colored-section {
+  background-color: #51C2D5;
+  color: #fff;
+}
+
+.white-section {
+  background-color: #fff;
+}
+
+.colo {
+  background-color: #8f8f8f;
+
+}
+.social-icon {
+  margin: 20px 10px;
+}
